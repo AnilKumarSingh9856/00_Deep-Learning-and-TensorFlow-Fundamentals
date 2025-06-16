@@ -18,8 +18,10 @@ This notebook is the **first part** of a deep learning tutorial series focused o
 `00_DeepLearning&TensorFlowFundamentals.ipynb`
 
 This notebook is structured for both **learning and revision**, with examples that help you visualize how tensors work under the hood.
+## 🎯 Goal
 To give a solid starting point in Deep Learning by exploring how data is represented and manipulated in TensorFlow.
-💡 This is part of a larger deep learning roadmap. Stay tuned for more notebooks covering model building, loss functions, optimizers, and real projects!
+
+##💡 This is part of a larger deep learning roadmap. Stay tuned for more notebooks covering model building, loss functions, optimizers, and real projects!
 
 
 ## 🛠 Requirements
@@ -31,4 +33,4 @@ Install dependencies using:
 
 ```bash
 pip install tensorflow
-🎯 Goal
+
